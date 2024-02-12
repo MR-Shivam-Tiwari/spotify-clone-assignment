@@ -11,8 +11,7 @@ function Home() {
 
   // State to keep track of screen width
   const [screenWidth, setScreenWidth] = useState(window.innerWidth);
-
-  // Update screen width on window resize
+  // Update screen width on window resize 
   useEffect(() => {
     const handleResize = () => {
       setScreenWidth(window.innerWidth);
