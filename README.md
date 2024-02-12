@@ -1,4 +1,33 @@
-# Spotify Clone Assignment
+## Pull Request Details
+
+### Changes Made:
+- **Created Sidebar**:
+- Added a sidebar to the application's user interface.
+Typically, a sidebar provides navigation links or additional information in a vertical or horizontal layout.
+Created Dashboard and Search Routes and Pages:
+
+- **Developed specific routes and corresponding pages** for the dashboard and search functionalities.
+In web development, routes define different views or pages in a single-page application.
+Implemented Search Functionality:
+
+- **Added a search feature to the application.**
+Allows users to search for specific content, providing a more interactive and user-friendly experience.
+Created Footer:
+
+- **Designed and integrated a footer section into the application**.
+Footers often contain additional information, links, or copyright details.
+
+**Made It Responsive:**
+- Ensured that the application is responsive to different screen sizes and devices.
+- Responsive design allows the application to adapt and provide an optimal user experience on various devices, such as desktops, tablets, and mobile phones.
+In summary, the developer has added several key features to the application, including a sidebar for navigation, distinct routes and pages for the dashboard and search functionalities, a search function for user interaction, a footer for additional information, and ensured that the application is responsive across different devices.
+
+****Internshala Information**:**
+- Name: [Shivam Tiwari]
+- Email: [shivamt2023@gmail.com]
+
+ 
+- # Spotify Clone Assignment
 Welcome to the Spotify Clone assignment! In this assignment, you'll be tasked with creating a Spotify clone using React, Vite for project setup, and Tailwind CSS for styling. Your application will consist of two main pages: the homepage and the search page. Additionally, you have the option to include a third page for search results.
 
 ## Instructions
