@@ -22,6 +22,10 @@ Footers often contain additional information, links, or copyright details.
 - Responsive design allows the application to adapt and provide an optimal user experience on various devices, such as desktops, tablets, and mobile phones.
 In summary, the developer has added several key features to the application, including a sidebar for navigation, distinct routes and pages for the dashboard and search functionalities, a search function for user interaction, a footer for additional information, and ensured that the application is responsive across different devices.
 
+### Spotify Clone Deploy Link :
+https://spotify-clone-assignment-blond.vercel.app/
+
+
 ****Internshala Information**:**
 - Name: [Shivam Tiwari]
 - Email: [shivamt2023@gmail.com]
