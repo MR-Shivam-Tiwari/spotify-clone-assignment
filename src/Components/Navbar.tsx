@@ -74,7 +74,7 @@ function Navbar() {
             <div className="p-5">
               <div className="py-5">
                 <div onClick={() => setOpen(false)}>
-                  <Link to="/dashboard">
+                  <Link to="/">
                     <h3 className="font-bold mb-5" style={{ fontSize: "22px" }}>
                       Home
                     </h3>
